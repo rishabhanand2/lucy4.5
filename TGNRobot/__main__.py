@@ -74,33 +74,33 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-ʜᴏɪ, ɪ ᴍ ᴛɢɴ ʀᴏʙᴏᴛ
-`ɪ'ᴍ ʜᴇʀᴇ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ ᴛᴏ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘꜱ ᴀɴᴅ ɪ ᴍ ᴠᴇʀʏ ᴘᴏᴡᴇʀꜰᴜʟʟ ʙᴏᴛ! ʜɪᴛ` /help
- [❤](https://telegra.ph/file/cab6825dea9263d347831.jpg)
+ɦɛʟʟօ, ʍʏ ռǟʍɛ ʟʊƈʏ ɮօȶ
+`ɨ'ʍ ɦɛʀɛ ȶօ ɦɛʟք ʏօʊ ʍǟռǟɢɛ ʏօʊʀ ɢʀօʊքֆ! ʜɪᴛ` /help
+ [💙](https://telegra.ph/file/1aa05b6f356b259e7a0d6.jpg)
 """
 
 buttons = [
     [
         InlineKeyboardButton(
-            text="ᴀᴅᴅ ᴛɢɴ ʀᴏʙᴏᴛ ᴛᴏ ᴜʀ ᴄʜᴀᴛ", url="t.me/TGN_Ro_bot?startgroup=true"),
+            text="ǟɖɖ ʟʊƈʏ  ȶօ ʊʀ ɢʀօʊք", url="t.me/LUCY_MANAGER2_bot?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="ꜱᴏᴜʀᴄᴇ 💫", url=f"https://github.com/Itsunknown-12/TGN-Robot"),
+        InlineKeyboardButton(text="ʀɨֆɦǟɮɦ 💙", url=f"https://github.com/Itsunknown-12/TGN-Robot"),
         InlineKeyboardButton(
-            text="ꜱᴜᴘᴘᴏʀᴛ ⚡", url=f"https://t.me/{SUPPORT_CHAT}"
+            text="ֆʊքքօʀȶ 💙", url=f"https://t.me/{SUPPORT_CHAT}"
         ),
     ],
     [
-        InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇꜱ ☑️", url=f"https://t.me/The_Godfather_Network"),
+        InlineKeyboardButton(text="ʊքɖǟȶɛֆ 💙", url=f"https://t.me/The_Godfather_Network"),
         InlineKeyboardButton(
-            text="ᴛɢɴ ᴄʜᴀᴛ", url=f"https://t.me/greatpersonxd"
+            text="ʟʊƈʏ ƈʟǟռ 💙", url=f"https://t.me/greatpersonxd"
         ),
     ],
     [
-        InlineKeyboardButton(text="ʜᴇʟᴘ ᴀɴᴅ ᴄᴏᴍᴍᴀɴᴅꜱ", callback_data="help_back"),
+        InlineKeyboardButton(text="ɦɛʟք ǟռɖ ƈօʍʍǟռɖ", callback_data="help_back"),
     ],
     [
-        InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇꜱ ☑️", url=f"https://t.me/The_Godfather_Network"),
+        InlineKeyboardButton(text="ʟʊʏƈ ƈɦǟȶ ʀօօʍֆ", url=f"https://t.me/The_Godfather_Network"),
         InlineKeyboardButton(
             text="ᴛɢɴ ᴄʜᴀᴛ", url=f"https://t.me/greatpersonxd"
         ),
