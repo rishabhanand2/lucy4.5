@@ -6,6 +6,7 @@ gtts
 faker
 arq
 odmantic
+tgEasy
 redis
 httpx
 pykeyboard
