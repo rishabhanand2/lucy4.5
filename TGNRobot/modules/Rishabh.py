@@ -1,10 +1,12 @@
-from TGNRobot.events import register
-from TGNRobot import OWNER_ID
-from TGNRobot import telethn as tbot
-import os 
+import tgEasy
+from tgEasy import tgClient
+from pyrogram import Client
 
-@register(pattern="^/rishabh ?(.*)")
-async def rishabh(event, message):
-    await message.reply_text("**Hey,I am the owner of this super Bot❤️🥳.**")
+app = tgClient(Client('my_account'))
+
+@app.command("rishabh")
+async def start(client, message):
+    await message.reply_text("Hello")
+
 
 
