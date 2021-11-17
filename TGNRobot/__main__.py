@@ -82,25 +82,25 @@ PM_START_TEXT = """
 buttons = [
     [
         InlineKeyboardButton(
-            text="ǟɖɖ ʟʊƈʏ  ȶօ ʊʀ ɢʀօʊք", url="t.me/LUCY_MANAGER2_bot?startgroup=true"),
+            text="ΛＤＤ ＬＵＣＹ Ｔ♢ ＵＲ ＧＲ♢ＵＰ", url="t.me/LUCY_MANAGER2_bot?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="💞ǟɮօʊȶ ʀǟ💞", url=f"https://t.me/RISHABHANANDX"),
+        InlineKeyboardButton(text="💞ΛＢ♢ＵＴ ＲΛ💞", url=f"https://t.me/RISHABHANANDX"),
         InlineKeyboardButton(
-            text="💞ֆʊքքօʀȶ💞", url=f"https://t.me/{SUPPORT_CHAT}"
+            text="💞ＳＵＰＰ♢ＲＴ💞", url=f"https://t.me/{SUPPORT_CHAT}"
         ),
     ],
     [
-        InlineKeyboardButton(text="💞ʊքɖǟȶɛֆ💞", url=f"https://t.me/lucysuppor"),
+        InlineKeyboardButton(text="💞ＵＰＤΛＴΞＳ💞", url=f"https://t.me/lucysuppor"),
         InlineKeyboardButton(
-            text="💞ʟʊƈʏ քʟǟʏɛʀ💞", url=f"https://t.me/LUCYPLAYER1"
+            text="💞ＬＵＣＹ ＭＵＳＩＣ💞", url=f"https://t.me/LUCYPLAYER1"
         ),
     ],
     [
-        InlineKeyboardButton(text="💞ɦɛʟք ǟռɖ ƈօʍʍǟռɖ💞", callback_data="help_back"),
+        InlineKeyboardButton(text="💞ＨΣＬＰ ΛＮＤ Ｃ♢ＭＭΛＮＤＳ💞", callback_data="help_back"),
     ],
     [
-        InlineKeyboardButton(text="💞ʟʊʏƈ ƈɦǟȶ ʀօօʍֆ💞", url=f"https://t.me/CRAZY_ZONE2"),
+        InlineKeyboardButton(text="💞ＬＵＹＣ ＣＨΛＴ Ｒ♢♢Ｍ💞", url=f"https://t.me/CRAZY_ZONE2"),
         
     ],
 ]
