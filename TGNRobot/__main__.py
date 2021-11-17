@@ -85,25 +85,23 @@ buttons = [
             text="ǟɖɖ ʟʊƈʏ  ȶօ ʊʀ ɢʀօʊք", url="t.me/LUCY_MANAGER2_bot?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="ʀɨֆɦǟɮɦ 💙", url=f"https://github.com/Itsunknown-12/TGN-Robot"),
+        InlineKeyboardButton(text="💞ǟɮօʊȶ ʀǟ💞", url=f"https://t.me/RISHABHANANDX"),
         InlineKeyboardButton(
-            text="ֆʊքքօʀȶ 💙", url=f"https://t.me/{SUPPORT_CHAT}"
+            text="💞ֆʊքքօʀȶ💞", url=f"https://t.me/{SUPPORT_CHAT}"
         ),
     ],
     [
-        InlineKeyboardButton(text="ʊքɖǟȶɛֆ 💙", url=f"https://t.me/The_Godfather_Network"),
+        InlineKeyboardButton(text="💞ʊքɖǟȶɛֆ💞", url=f"https://t.me/lucysuppor"),
         InlineKeyboardButton(
-            text="ʟʊƈʏ ƈʟǟռ 💙", url=f"https://t.me/greatpersonxd"
+            text="💞ʟʊƈʏ քʟǟʏɛʀ💞", url=f"https://t.me/LUCYPLAYER1"
         ),
     ],
     [
-        InlineKeyboardButton(text="ɦɛʟք ǟռɖ ƈօʍʍǟռɖ", callback_data="help_back"),
+        InlineKeyboardButton(text="💞ɦɛʟք ǟռɖ ƈօʍʍǟռɖ💞", callback_data="help_back"),
     ],
     [
-        InlineKeyboardButton(text="ʟʊʏƈ ƈɦǟȶ ʀօօʍֆ", url=f"https://t.me/The_Godfather_Network"),
-        InlineKeyboardButton(
-            text="ᴛɢɴ ᴄʜᴀᴛ", url=f"https://t.me/greatpersonxd"
-        ),
+        InlineKeyboardButton(text="💞ʟʊʏƈ ƈɦǟȶ ʀօօʍֆ💞", url=f"https://t.me/CRAZY_ZONE2"),
+        
     ],
 ]
 
