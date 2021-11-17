@@ -85,22 +85,22 @@ buttons = [
             text="ΛＤＤ ＬＵＣＹ Ｔ♢ ＵＲ ＧＲ♢ＵＰ", url="t.me/LUCY_MANAGER2_bot?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="💞ΛＢ♢ＵＴ ＲΛ💞", url=f"https://t.me/RISHABHANANDX"),
+        InlineKeyboardButton(text="AB♢UT", url=f"https://t.me/RISHABHANANDX"),
         InlineKeyboardButton(
-            text="💞ＳＵＰＰ♢ＲＴ💞", url=f"https://t.me/{SUPPORT_CHAT}"
+            text="SUPP♢RT", url=f"https://t.me/{SUPPORT_CHAT}"
         ),
     ],
     [
-        InlineKeyboardButton(text="💞ＵＰＤΛＴΞＳ💞", url=f"https://t.me/lucysuppor"),
+        InlineKeyboardButton(text="UPDATΞS", url=f"https://t.me/lucysuppor"),
         InlineKeyboardButton(
-            text="💞ＬＵＣＹ ＭＵＳＩＣ💞", url=f"https://t.me/LUCYPLAYER1"
+            text="ＭＵＳＩＣ", url=f"https://t.me/LUCYPLAYER1"
         ),
     ],
     [
-        InlineKeyboardButton(text="💞ＨΣＬＰ ΛＮＤ Ｃ♢ＭＭΛＮＤＳ💞", callback_data="help_back"),
+        InlineKeyboardButton(text="ＨΣＬＰ", callback_data="help_back"),
     ],
     [
-        InlineKeyboardButton(text="💞ＬＵＹＣ ＣＨΛＴ Ｒ♢♢Ｍ💞", url=f"https://t.me/CRAZY_ZONE2"),
+        InlineKeyboardButton(text="ＬＵＹＣ ＣＨΛＴ", url=f"https://t.me/CRAZY_ZONE2"),
         
     ],
 ]
@@ -694,7 +694,7 @@ def main():
 
     if SUPPORT_CHAT is not None and isinstance(SUPPORT_CHAT, str):
         try:
-            dispatcher.bot.sendMessage(f"@{SUPPORT_CHAT}", "Yes I'm alive 😹")
+            dispatcher.bot.sendMessage(f"@{SUPPORT_CHAT}", "HELLO @admin KASE HO SAB")
         except Unauthorized:
             LOGGER.warning(
                 "Bot isnt able to send message to support_chat, go and check!"
