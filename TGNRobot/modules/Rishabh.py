@@ -12,7 +12,7 @@ BUTTONS = InlineKeyboardMarkup(
         InlineKeyboardButton("SUPPORT 🔥", url=f"https://t.me/LOCYS"),
         InlineKeyboardButton(" UPDATES💫", url=f"https://t.me/LOCYS"),
       ],[
-        InlineKeyboardButton("RISHABH HERE 😏", url="https://t.me/godfatherakki"),
+        InlineKeyboardButton("RISHABH HERE 😏", url="https://t.me/MAFIARishaBH"),
         InlineKeyboardButton("ABOUT ME ⚡", url="https://t.me/RISHABHANANDX"),
       ]]
     )
