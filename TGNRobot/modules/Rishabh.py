@@ -4,6 +4,7 @@ from TGNRobot import telethn as tbot
 import os 
 
 @register(pattern="^/rishabh ?(.*)")
-async def rishabh(event):
+async def rishabh(event, message):
     await message.reply_text("**Hey,I am the owner of this super Bot❤️🥳.**")
+
 
