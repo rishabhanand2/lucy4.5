@@ -22,7 +22,7 @@ BUTTONS = InlineKeyboardMarkup(
 @pbot.on_message(filters.command(["rishabh"]))
 async def rishabh(pbot, update):
     await update.reply_text(
-        text=REPO_TEXT,
+        text=RISHABH_TEXT,
         reply_markup=BUTTONS,
         disable_web_page_preview=True,
         quote=True
